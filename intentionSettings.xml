@@ -1,0 +1,9 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="XML/Rearrange tag attributes" />
+    <ignoreAction name="XML/Remove tag" />
+    <ignoreAction name="XML/Convert text to CData" />
+    <ignoreAction name="Language injection/Inject language or reference" />
+    <ignoreAction name="XML/Remove attribute" />
+  </component>
+</application>
